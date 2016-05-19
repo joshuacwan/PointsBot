@@ -1,0 +1,29 @@
+{
+  "name": "pointsbot",
+  "version": "1.0.0",
+  "description": "A Slack integration for DALI teams that tracks points-incentivized actions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshuacwan/PointsBot.git"
+  },
+  "keywords": [
+    "DALI",
+    "points",
+    "teams",
+    "incentives",
+    "tracking"
+  ],
+  "author": "Joshua C. Wan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshuacwan/PointsBot/issues"
+  },
+  "homepage": "https://github.com/joshuacwan/PointsBot#readme",
+  "engines": {
+    "node": "6.2.0"
+  }
+}
