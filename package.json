@@ -25,5 +25,8 @@
   "homepage": "https://github.com/joshuacwan/PointsBot#readme",
   "engines": {
     "node": "6.2.0"
+  },
+  "dependencies": {
+    "@slack/client": "^3.1.1"
   }
 }
